@@ -150,7 +150,7 @@
           },
           "title": "Добро пожаловать",
           "text": "Проект Мамслёт &nbsp;.............<br>Самый самый фестиваль в Мире<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.instagram.com/mamslet/\" data-toolbar=\"-mbrBtnMove\">Посетите наш Инстаграмм</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.instagram.com/mamslet/\" data-toolbar=\"-mbrBtnMove\">Посетите наш Инстаграмм</a>  ",
           "_tags": [
             "Theme"
           ],
@@ -242,7 +242,7 @@
             "Theme"
           ],
           "text": "Новости / подпишитесь на нас",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-info\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social btn-danger\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social btn-info\" title=\"VKontakte\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a>  ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-info\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/darya.koreshkova\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social btn-danger\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/mamslet/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social btn-info\" title=\"VKontakte\" target=\"_blank\" href=\"https://vk.com/mamslet_minsk\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a>  ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-e"
         },
